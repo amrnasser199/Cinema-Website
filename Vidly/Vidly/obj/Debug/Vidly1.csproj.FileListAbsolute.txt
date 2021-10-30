@@ -1,0 +1,302 @@
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.initialmodel.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipType.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly1.csproj.GenerateResource.cache
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.dll
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.pdb
+E:\vidly\Vidly\Vidly\bin\Vidly.dll.config
+E:\vidly\Vidly\Vidly\bin\Vidly.dll
+E:\vidly\Vidly\Vidly\bin\Vidly.pdb
+E:\vidly\Vidly\Vidly\bin\roslyn\csc.exe
+E:\vidly\Vidly\Vidly\bin\roslyn\csc.exe.config
+E:\vidly\Vidly\Vidly\bin\roslyn\csc.rsp
+E:\vidly\Vidly\Vidly\bin\roslyn\csi.exe
+E:\vidly\Vidly\Vidly\bin\roslyn\csi.exe.config
+E:\vidly\Vidly\Vidly\bin\roslyn\csi.rsp
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\vidly\Vidly\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Console.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Net.Http.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Net.Sockets.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\vidly\Vidly\Vidly\bin\roslyn\vbc.exe
+E:\vidly\Vidly\Vidly\bin\roslyn\vbc.exe.config
+E:\vidly\Vidly\Vidly\bin\roslyn\vbc.rsp
+E:\vidly\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+E:\vidly\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+E:\vidly\Vidly\Vidly\bin\Antlr3.Runtime.dll
+E:\vidly\Vidly\Vidly\bin\AutoMapper.dll
+E:\vidly\Vidly\Vidly\bin\Castle.Core.dll
+E:\vidly\Vidly\Vidly\bin\EntityFramework.dll
+E:\vidly\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+E:\vidly\Vidly\Vidly\bin\Fluent.Infrastructure.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+E:\vidly\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+E:\vidly\Vidly\Vidly\bin\Newtonsoft.Json.dll
+E:\vidly\Vidly\Vidly\bin\Owin.dll
+E:\vidly\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+E:\vidly\Vidly\Vidly\bin\System.Web.Helpers.dll
+E:\vidly\Vidly\Vidly\bin\System.Web.Http.dll
+E:\vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+E:\vidly\Vidly\Vidly\bin\System.Web.Mvc.dll
+E:\vidly\Vidly\Vidly\bin\System.Web.Optimization.dll
+E:\vidly\Vidly\Vidly\bin\System.Web.Razor.dll
+E:\vidly\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+E:\vidly\Vidly\Vidly\bin\System.Web.WebPages.dll
+E:\vidly\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+E:\vidly\Vidly\Vidly\bin\WebActivatorEx.dll
+E:\vidly\Vidly\Vidly\bin\WebGrease.dll
+E:\vidly\Vidly\Vidly\bin\AutoMapper.xml
+E:\vidly\Vidly\Vidly\bin\Castle.Core.xml
+E:\vidly\Vidly\Vidly\bin\EntityFramework.xml
+E:\vidly\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+E:\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+E:\vidly\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+E:\vidly\Vidly\Vidly\bin\System.Web.Http.xml
+E:\vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+E:\vidly\Vidly\Vidly\bin\System.Web.Helpers.xml
+E:\vidly\Vidly\Vidly\bin\System.Web.Mvc.xml
+E:\vidly\Vidly\Vidly\bin\System.Web.Optimization.xml
+E:\vidly\Vidly\Vidly\bin\System.Web.Razor.xml
+E:\vidly\Vidly\Vidly\bin\System.Web.WebPages.xml
+E:\vidly\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+E:\vidly\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+E:\vidly\Vidly\Vidly\bin\Newtonsoft.Json.xml
+E:\vidly\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+E:\vidly\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType1.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetName_MembershipTypes.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly1.csproj.CoreCompileInputs.cache
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly1.csproj.CopyComplete
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly1.csproj.AssemblyReference.cache
+E:\vidly\Vidly\Vidly\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\vidly\Vidly\Vidly\bin\Unity.Abstractions.dll
+E:\vidly\Vidly\Vidly\bin\Unity.Container.dll
+E:\vidly\Vidly\Vidly\bin\System.Threading.Tasks.Extensions.dll
+E:\vidly\Vidly\Vidly\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\vidly\Vidly\Vidly\bin\Unity.Abstractions.pdb
+E:\vidly\Vidly\Vidly\bin\Unity.Container.pdb
+E:\vidly\Vidly\Vidly\bin\Unity.AspNet.WebApi.dll
+E:\vidly\Vidly\Vidly\bin\System.Threading.Tasks.Extensions.xml
+E:\vidly\Vidly\Vidly\bin\Unity.AspNet.WebApi.pdb
+E:\vidly\Vidly\Vidly\bin\Unity.AspNet.WebApi.xml
+E:\vidly\Vidly\Vidly\bin\Glimpse.Ado.dll
+E:\vidly\Vidly\Vidly\bin\Glimpse.AspNet.dll
+E:\vidly\Vidly\Vidly\bin\Glimpse.Core.dll
+E:\vidly\Vidly\Vidly\bin\Glimpse.EF6.dll
+E:\vidly\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+E:\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Vidly.dll.config
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Vidly.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Vidly.pdb
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\csc.exe
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\csc.exe.config
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\csc.rsp
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\csi.exe
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\csi.exe.config
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\csi.rsp
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.Managed.Core.targets
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.AppContext.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Console.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Globalization.Calendars.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.IO.Compression.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Net.Http.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Net.Sockets.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.ValueTuple.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Xml.XmlDocument.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Xml.XPath.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\vbc.exe
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\vbc.exe.config
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\vbc.rsp
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Antlr3.Runtime.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\AutoMapper.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Castle.Core.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Elmah.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\EntityFramework.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Fluent.Infrastructure.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Glimpse.Ado.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Glimpse.AspNet.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Glimpse.Core.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Glimpse.EF6.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Glimpse.Mvc5.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Newtonsoft.Json.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Owin.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Net.Http.Formatting.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Threading.Tasks.Extensions.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Helpers.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Http.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Mvc.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Optimization.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Razor.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.WebPages.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Unity.Abstractions.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Unity.AspNet.WebApi.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Unity.Container.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\WebActivatorEx.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\WebGrease.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\AutoMapper.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Castle.Core.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\EntityFramework.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Net.Http.Formatting.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Threading.Tasks.Extensions.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Http.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Http.WebHost.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Helpers.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Mvc.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Optimization.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.Razor.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.WebPages.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Newtonsoft.Json.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Unity.Abstractions.pdb
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Unity.AspNet.WebApi.pdb
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Unity.AspNet.WebApi.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Unity.Container.pdb
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.initialmodel.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipType.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.Genres.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType1.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetName_MembershipTypes.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddRental.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly1.csproj.GenerateResource.cache
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly1.csproj.CoreCompileInputs.cache
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.dll
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly.pdb
+E:\final vidly made by amr nasser\vidly\Vidly\Vidly\obj\Debug\Vidly1.csproj.AssemblyReference.cache
